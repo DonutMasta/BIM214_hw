@@ -48,5 +48,4 @@ public class Calculations {
         return Math.sqrt((2 * annualDemand * (setupCostPerOrder + (unitCost * nR))) / holdingCost);
     }
 
-    
 }
